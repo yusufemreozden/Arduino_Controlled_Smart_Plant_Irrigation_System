@@ -1,6 +1,6 @@
 # 🌱 Arduino-Based Smart Plant Irrigation System
 
-This project is a **smart irrigation system** built with Arduino that automatically waters a plant based on soil moisture levels and displays real-time data on an OLED screen.
+💧 This project is a **smart irrigation system** built with Arduino that automatically waters a plant based on soil moisture levels and displays real-time data on an OLED screen.
 
 ---
 
